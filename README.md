@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, TypeScript, Kotlin, Python, etc…
 
 #### Languages and Tools:
-![Skill Icons](https://skillicons.dev/icons?i=kotlin,typescript,python,html,css,js,)
+![Skill Icons](https://skillicons.dev/icons?i=kotlin,react,typescript,python,html,css,js,nodejs,apple,)
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mohachi8&show_icons=true&locale=en&layout=compact)
 
