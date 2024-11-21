@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi!👋 I'm Mistuaki MAEDOI
+- 😃 I'm interested in developing mobile and web applications.
+- 🌱 I’m currently learning React, TypeScript, Kotlin, Python, etc…
+
+#### Languages and Tools:
+![Skill Icons](https://skillicons.dev/icons?i=kotlin,typescript,python,html,css,js,)
+<br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mohachi8&show_icons=true&locale=en&layout=compact)
 
 <!--
 **mohachi8/mohachi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
