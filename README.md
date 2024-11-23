@@ -1,9 +1,11 @@
 ## Hi!👋 I'm Mistuaki MAEDOI
 - 😃 I'm interested in developing mobile and web applications.
-- 🌱 I’m currently learning React, TypeScript, Kotlin, Python, etc…
+- 🌱 I’m currently learning React, TypeScript, Kotlin, Python, Flutter, etc…
 
 #### Languages and Tools:
-![Skill Icons](https://skillicons.dev/icons?i=kotlin,react,typescript,python,html,css,js,nodejs,apple,)
+![Skill Icons](https://skillicons.dev/icons?i=kotlin,react,typescript,python,nodejs,)
+<br>
+![Skill Icons](https://skillicons.dev/icons?i=html,css,js,dart,flutter,)
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mohachi8&show_icons=true&locale=en&layout=compact)
 
